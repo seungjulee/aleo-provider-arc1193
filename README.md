@@ -16,7 +16,7 @@ created: 1/9/2023
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 ## Demo
-./connect_wallet.mov
+https://user-images.githubusercontent.com/4685781/211352774-2625e0dd-867e-4536-b56c-28eb24308876.mov
 
 
 
