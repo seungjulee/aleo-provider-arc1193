@@ -1,12 +1,3 @@
-<img
-  src="./motivation.png"
-  alt="Motivation"
-  title="Motivation"
-  style="display: inline-block; margin: 0 auto; max-width: 500px">
-
-<video src="./connect_wallet.mov">
-./connect_wallet.mov
-
 ---
 arc: 1193
 title: Aleo Provider Javascript API
@@ -16,6 +7,19 @@ topic: Application
 status: Draft
 created: 1/9/2023
 ---
+
+## Motivation
+<img
+  src="./motivation.png"
+  alt="Motivation"
+  title="Motivation"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
+## Demo
+<video src="./connect_wallet.mov">
+./connect_wallet.mov
+
+
 
 ## Abstract
 
