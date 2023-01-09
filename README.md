@@ -15,6 +15,12 @@ created: 1/9/2023
   title="Motivation"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
+<img
+  src="./impl_diagram.png"
+  alt="Implementation Diagram"
+  title="Implementation Diagram"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
 ## Demo
 https://user-images.githubusercontent.com/4685781/211352774-2625e0dd-867e-4536-b56c-28eb24308876.mov
 
