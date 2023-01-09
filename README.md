@@ -24,6 +24,7 @@ created: 1/9/2023
 ## Demo
 https://user-images.githubusercontent.com/4685781/211352774-2625e0dd-867e-4536-b56c-28eb24308876.mov
 
+[Presentation Deck](./Aleo.pdf)
 
 
 ## Abstract
