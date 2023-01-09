@@ -9,6 +9,7 @@ created: 1/9/2023
 ---
 
 ## Motivation
+
 <img
   src="./motivation.png"
   alt="Motivation"
@@ -22,10 +23,15 @@ created: 1/9/2023
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 ## Demo
+
 https://user-images.githubusercontent.com/4685781/211352774-2625e0dd-867e-4536-b56c-28eb24308876.mov
 
 [Presentation Deck](./Aleo.pdf)
 
+## Implementations
+
+[Aleo Dapp](https://github.com/mellowcroc/aleo-dapp)
+[Aleo wallet extension](https://github.com/mellowcroc/aleo-wallet-extension)
 
 ## Abstract
 
