@@ -16,7 +16,6 @@ created: 1/9/2023
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 ## Demo
-<video src="./connect_wallet.mov">
 ./connect_wallet.mov
 
 
